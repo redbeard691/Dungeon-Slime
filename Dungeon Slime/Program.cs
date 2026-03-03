@@ -1,2 +1,2 @@
-﻿using var game = new Dungeon_Slime.Game1();
+﻿using var game = new DungeonSlime.Game1();
 game.Run();
